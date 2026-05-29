@@ -2,9 +2,9 @@
 
 :root{
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --verde: #ff8eec;
     --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #ff0095;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
@@ -165,7 +165,7 @@ footer p {
   text-transform: uppercase;
   font: bolder;
 
-  background: linear-gradient(45deg, #10c91f, #4fd12b, #19db49,#0fe33d);
+  background: linear-gradient(45deg, #ff00d4, #f837c8, #ff0bc2,#ff18a6);
   background-size: 400% 100%;
   animation: degrade 10s linear infinite alternate;
 
@@ -186,7 +186,7 @@ footer p {
 
 p{
   font-size: 16px;
-  color: green;
+  color: rgb(255, 25, 186);
 }
 
 .texto{
